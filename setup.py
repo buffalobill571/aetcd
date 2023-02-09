@@ -47,7 +47,7 @@ setuptools.setup(
     ],
     install_requires=[
         'grpcio>1.41,<2',
-        'protobuf>3,<4',
+        'protobuf>4',
     ],
     extras_require={
         'dev': [
