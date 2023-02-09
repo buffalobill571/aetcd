@@ -56,7 +56,7 @@ setuptools.setup(
             'flake8-isort==4.1.1',
             'flake8-quotes==3.3.1',
             'flake8==4.0.1',
-            'grpcio-tools==1.43.0',
+            'grpcio-tools==1.51.1',
             'pep8-naming==0.12.1',
             'twine==3.7.1',
         ],
